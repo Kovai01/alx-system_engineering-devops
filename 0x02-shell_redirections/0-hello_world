@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr "Hello, world"
+pr "Hello, world"
