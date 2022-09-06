@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s ./0-alias ls \ls -l
+shopt 0
